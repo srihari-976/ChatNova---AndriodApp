@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455301533474",
+    "project_id": "chatnova-49b74",
+    "storage_bucket": "chatnova-49b74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455301533474:android:2f41d64f3ececd7e0e1f7b",
+        "android_client_info": {
+          "package_name": "com.chatnova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDunsN08ECyGiJU5A_wIIsk-4iSDlJky5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
