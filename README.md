@@ -45,6 +45,10 @@ ChatNova is an advanced Android application designed to provide seamless and eff
 
 4. Build and run the project on your emulator or physical device.
 
+### APK Download
+
+You can download the built APK file from the [app/build](https://github.com/srihari-976/ChatNova---AndriodApp/tree/main/app/build) directory.
+
 ## Usage
 
 1. **Sign Up/Log In:**
