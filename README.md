@@ -33,7 +33,7 @@ Here are some screenshots of the ChatNova app:
 ![Chat Screen](screenshots/chat_screen.png)
 
 ### Profile Screen
-![Profile Screen](screenshots/profile_screen.png)
+![Profile Screen](screenshots/sign_up.png)
 
 ## Getting Started
 
