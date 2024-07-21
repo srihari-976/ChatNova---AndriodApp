@@ -22,6 +22,19 @@ ChatNova is an advanced Android application designed to provide seamless and eff
 - **Glide:** Image loading and caching
 - **Material Design:** UI components and design guidelines
 
+## Screenshots
+
+Here are some screenshots of the ChatNova app:
+
+### Home Screen
+![Home Screen](screenshots/home_screen.png)
+
+### Chat Screen
+![Chat Screen](screenshots/chat_screen.png)
+
+### Profile Screen
+![Profile Screen](screenshots/profile_screen.png)
+
 ## Getting Started
 
 ### Prerequisites
